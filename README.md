@@ -5,7 +5,7 @@
 百度网盘链接：https://pan.baidu.com/s/1XbcMQiHsauXDTWEe3m8mJw 
 提取码：d20s
 
-下载完解压后将data、images、saved_models放置在根目录下即可。
+下载完解压后将data、images、saved_models三个文件夹放置在根目录下即可。
 
 ## 1.使用vae网络训练数据集：
 
